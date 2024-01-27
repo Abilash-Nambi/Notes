@@ -13,5 +13,5 @@ it is called relational database because two ore more tables have some kind of r
 -->connect to database 
 1.Gui client
 2.Terminal or command line.
-3.Application
+3.Application.
 
